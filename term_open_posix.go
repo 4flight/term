@@ -6,7 +6,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/pkg/term/termios"
+	"github.com/4flight/term/termios"
 )
 
 // Open opens an asynchronous communications port.
